@@ -1,0 +1,11 @@
+[tool.ruff]
+line-length = 80
+
+[tool.ruff.format]
+quote-style = "double"
+
+[tool.ruff.isort]
+force-single-line = true
+
+[tool.ruff.pydocstyle]
+convention = "google"
