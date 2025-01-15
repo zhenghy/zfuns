@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name="zfuns",
-    version="2.0.3",
+    version="3.0.0",
     author="Haiyang Zheng",
     author_email="wnfdsfy@gmail.com",
     packages=find_packages(),
